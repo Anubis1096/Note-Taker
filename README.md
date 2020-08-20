@@ -31,3 +31,6 @@ Application should allow users to delete previously saved notes.
 
 ## Link to deployed application
 https://notetakerassignment.herokuapp.com/
+
+## Screenshot of application
+![Notes](https://user-images.githubusercontent.com/65513935/90723989-960ffa00-e272-11ea-8c79-55c1a353f6d5.JPG)
